@@ -1,4 +1,4 @@
-<h1 align="left">```Hi there!, I'm Maximiliano Di Pietro</h1>
+<h1 align="left">Hi there!, I'm Maximiliano Di Pietro</h1>
 <h3 align="left">Linux & OpenSource fanatic from Argentina.</h3>
 
 <p align="left">
